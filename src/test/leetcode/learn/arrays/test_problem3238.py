@@ -1,5 +1,4 @@
 import pytest
-from main.leetcode.learn.arrays import problem3238
 from main.leetcode.learn.arrays.problem3238 import Problem3238
 
 def test_all_ones():
